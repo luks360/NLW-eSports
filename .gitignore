@@ -63,5 +63,5 @@ yarn-error.*
 # temporary archives
 mobile/assets
 web/public/vite.svg
-web/src/assets/game-*.png
+web/public/game-*.png
 web/README.md
