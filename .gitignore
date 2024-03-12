@@ -57,8 +57,15 @@ yarn-error.*
 # local env files
 .env*.local
 
+#env files
+server/.env
+
 # typescript
 *.tsbuildinfo
+
+# database
+server/src/database
+server/prisma/migrations
 
 # temporary archives
 mobile/assets
