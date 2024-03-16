@@ -59,6 +59,7 @@ yarn-error.*
 
 #env files
 server/.env
+mobile/.env
 
 # typescript
 *.tsbuildinfo
