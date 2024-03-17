@@ -73,3 +73,7 @@ mobile/assets
 web/public/vite.svg
 web/public/game-*.png
 web/README.md
+
+# services
+
+mobile/src/services
